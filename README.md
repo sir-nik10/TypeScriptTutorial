@@ -22,3 +22,5 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+
+![image](https://github.com/sir-nik10/TypeScriptTutorial/assets/53841083/deea5f07-c77a-4dac-9fb8-74ea9622119a)
